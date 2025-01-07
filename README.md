@@ -10,7 +10,6 @@ This project is an implementation of a multi-modal object detection model based 
 - Maintains YOLOv8's efficient detection performance
 - Supports multiple learning rate scheduling strategies (step, cos)
 - Supports Adam and SGD optimizers
-- Supports multi-GPU training
 - Supports EMA (Exponential Moving Average)
 - Supports heatmap visualization
 
