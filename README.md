@@ -1,8 +1,6 @@
 # DCFA-YOLO: YOLOv8-based Multi-modal Object Detection Model
 
-**Official implementation of the paper [DCFA-YOLO: A Dual-Channel Cross-Feature-Fusion Attention YOLO Network for Cherry Tomato Bunch Detection](https://www.mdpi.com/2077-0472/15/3/271).**
-
-![Model Architecture](https://via.placeholder.com/800x400.png?text=Model+Architecture+Diagram)
+**Official implementation of the paper [DCFA-YOLO: A Dual-Channel Cross-Feature-Fusion Attention YOLO Network for Cherry Tomato Bunch Detection](https://www.mdpi.com/2077-0472/15/3/271).
 
 A dual-channel cross-feature-fusion attention YOLO network for robust multi-modal object detection, supporting RGB-Depth dual-modal inputs with enhanced feature fusion capabilities.
 
