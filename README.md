@@ -6,10 +6,8 @@ A dual-channel cross-feature-fusion attention YOLO network for robust multi-moda
 
 ## Features
 - Supports Adam and SGD optimizers
-- Supports EMA (Exponential Moving Average)
 - Supports heatmap visualization
 - Dual-channel cross-modal feature fusion
-- Adaptive attention mechanisms
 - Multi-scale feature extraction
   
 ## Requirements
