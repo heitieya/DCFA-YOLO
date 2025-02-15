@@ -1,4 +1,3 @@
-以下是完善后的 README.md 文件内容：
 DCFA-YOLO: A Dual-Channel Cross-Feature-Fusion Attention YOLO Network for Cherry Tomato Bunch Detection
 This repository contains the implementation of the DCFA-YOLO network, as described in the paper DCFA-YOLO: A Dual-Channel Cross-Feature-Fusion Attention YOLO Network for Cherry Tomato Bunch Detection. This model leverages multi-modal information from RGB and depth images to improve detection performance, particularly for agricultural applications such as cherry tomato bunch detection.
 DCFA-YOLO: YOLOv8-based Multi-modal Object Detection Model
